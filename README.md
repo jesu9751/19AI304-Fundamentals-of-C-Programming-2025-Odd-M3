@@ -1,7 +1,7 @@
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M3
 # IAPR-3- Module 3 - FoC
-# NAME : Kevin P
-# REGNO : 212224040159
+# NAME : Jesu Joyal J
+# REGNO : 212225040154
 ## 5. Implementation of one-dimensional array and multidimensional array.
 ## 6. Implementation of string manipulation.
 # Ex.No:11
